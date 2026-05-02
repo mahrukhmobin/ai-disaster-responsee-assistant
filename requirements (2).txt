@@ -1,0 +1,12 @@
+streamlit==1.47.1
+requests==2.32.3
+deep-translator==1.11.4
+geopy==2.4.1
+timezonefinder==5.2.0
+pytz==2024.1
+streamlit-lottie==0.0.5
+streamlit-js-eval==0.1.7
+transformers==4.46.0
+pillow==11.1.0
+huggingface_hub==0.23.2
+torch==2.5.1

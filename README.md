@@ -2,7 +2,7 @@
 
 A real-time, multilingual, and location-aware AI chatbot built to support communities during natural disasters. Developed at the **Pak Angels Generative AI Hackathon** (48-hour sprint). 🏆
 
-🔗 **Live Demo:** [Try it here](https://lnkd.in/ej3DteSV)
+🔗 **Live Demo:** [Try it here]([https://lnkd.in/ej3DteSV](https://huggingface.co/spaces/Mahrukhh/disaster_ai_chatbot))
 
 ---
 
